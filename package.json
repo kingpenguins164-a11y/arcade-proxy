@@ -1,10 +1,8 @@
 {
   "name": "arcade-proxy",
   "version": "1.0.0",
+  "description": "Vercel CORS Proxy Engine",
   "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
   "dependencies": {
     "cors-anywhere": "^0.4.4"
   }
